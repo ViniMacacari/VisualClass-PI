@@ -7,3 +7,7 @@ A necessidade de ter um programa de computador abrindoemsmartphone igual o VISUA
 ## O que contém no repositório?
 
 Neste repositório contém todos os projetos feitos para o andamento do VisualClass, todas as informações importantes e necessárias para conseguirmos concluir.
+
+## Alunos
+
+Orivaldo Costa Carneiro Filho, Lucas Aguiar Maioli de Carvalho, Thiago Rizzato, Enzo Luan Rech Pinheiro e Vinícius Macacari de Almeida
